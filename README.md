@@ -1,4 +1,4 @@
-SparkFun <PRODUCT NAME>
+SparkX Qwiic Humidity SHTC3
 ========================================
 
 ![Qwiic_Humidity_SHTC3](https://cdn.sparkfun.com/assets/parts/1/3/4/2/0/15074-SparkX_Humidity_Sensor_Breakout_SHTC3__Qwiic_-01.jpg)
