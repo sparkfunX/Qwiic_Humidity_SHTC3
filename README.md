@@ -1,9 +1,9 @@
 SparkFun <PRODUCT NAME>
 ========================================
 
-![SparkFun Part Name](URL for picture of part)
+![Qwiic_Humidity_SHTC3](https://cdn.sparkfun.com/assets/parts/1/3/4/2/0/15074-SparkX_Humidity_Sensor_Breakout_SHTC3__Qwiic_-01.jpg)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*Qwiic Humidity SHTC3*](https://www.sparkfun.com/products/15074)
 
 <Basic description of the part.>
 
